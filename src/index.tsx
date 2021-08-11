@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import { Document, Page } from 'react-pdf/dist/umd/entry.parcel';
 import Menu from './assets/menu.pdf';
 
+// import('./assets/menu.pdf').then(res => console.log('hello world', res));
+
 const App = () => {
     const [numPages, setNumPages] = React.useState(null);
     const [pageNumber, setPageNumber] = React.useState(1);
