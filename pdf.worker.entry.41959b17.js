@@ -8,4 +8,4 @@ var e,t=require("process");!function(t,a){"object"==typeof exports&&"object"==ty
 },{"process":"pBGv"}],"QecS":[function(require,module,exports) {
 "use strict";("undefined"!=typeof window?window:{}).pdfjsWorker=require("pdfjs-dist/build/pdf.worker.js");
 },{"pdfjs-dist/build/pdf.worker.js":"O8rm"}]},{},["QecS"], null)
-//# sourceMappingURL=/pdf.worker.entry.41959b17.js.map
+//# sourceMappingURL=/website/pdf.worker.entry.41959b17.js.map
